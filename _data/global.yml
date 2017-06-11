@@ -1,12 +1,12 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
+title: "Hello. I'm Pranav Bhatia."
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 url: 'https://prav10194.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+footer_text: '© 2017 Pranav Bhatia'
+twitter: 'i_prav'
+github: 'prav10194'
+facebook: 'blog.prav10194.com' 
 
 # Admin Settings
 admin_name: 'Jami Gibbs'
