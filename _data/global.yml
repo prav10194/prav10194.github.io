@@ -1,9 +1,9 @@
 # Site Settings
 title: "Hello. I'm Pranav Bhatia."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: "I'm a software developer pursuing my Master's in CS from UTDallas. "
 url: 'https://prav10194.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2017 Pranav Bhatia'
+footer_text: '© 2018 Pranav Bhatia'
 twitter: 'i_prav'
 github: 'prav10194'
 #facebook: 'blog.prav10194.com' 
